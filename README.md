@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @chacha912
+- 👀 I’m interested in Front-End Engineering🎨
+- 🌱 I’m currently learning DS, Algorithm, HTML, CSS, JS, React ...
+- 📫 How to reach me - dkwkdnwk912@gmail.com
